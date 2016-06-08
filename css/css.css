@@ -1,0 +1,50 @@
+div{
+	overflow: hidden;
+	width: 2048px;
+	height: 1546px;
+	position: relative;
+	margin: 0;
+}
+
+#kitchen{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#gas{
+	position: absolute;
+	left: 70px;
+	top: 108px;
+}
+
+#bottle1{
+	position: absolute;
+	left: 2300px;
+	top: 750px;
+}
+
+#bottle2{
+	position: absolute;
+	left: 2200px;
+	top: 750px;
+}
+
+#bag{
+	position: absolute;
+	left: 1700px;
+	top: 50px;
+}
+
+#left_arrow{
+	position: absolute;
+	left: 50px;
+	top: 1100px;
+	display: none;
+}
+
+#right_arrow{
+	position: absolute;
+	left: 1700px;
+	top: 1100px;
+}
